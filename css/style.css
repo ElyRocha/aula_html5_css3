@@ -1,0 +1,30 @@
+body{
+    background-color: #dcb9b1; /** cor de fundo pagina**/
+    margin-left: 100px;  /** distancia a esquerda **/
+    margin-right: 200px; /** distancia a direita **/
+}
+
+header {
+    margin-top: 70px; /** distancia acima **/
+}
+
+h1 {
+    color: rebeccapurple;
+    font-family: fantasy; /** tipo de fonte em h1 **/
+}
+
+h2 {
+    font-family: fantasy; /** tipo de fonte em h2 **/
+}
+
+p {
+    font-size: 18px; /** tamanho de fonte em p **/
+}
+footer {
+    margin-bottom: 30px; /** distancia do rodapé do texto final da pagina**/
+}
+
+.img_serviços { /** classe da img_serviços **/
+margin-bottom: 20px; /** distancia das img_serviços **/
+width: 300px; /** tamanho das img_serviços, inicialmente é definido no html depois tira de lá e coloca no CSS**/
+}
